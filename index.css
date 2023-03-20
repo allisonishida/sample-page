@@ -1,4 +1,7 @@
-
+html,
+body {
+  background: #f4f4f4;
+}
 .header {
   background: black;
   color: #ffffff;
@@ -14,12 +17,11 @@
 .title {
   background: white;
   height: 9rem;
+  display: flex;
+  align-items: center;
 }
 
 .title-text {
   margin-left: 3rem;
-}
-
-.body {
-  background: #f4f4f4;
+  font-size: 32px;
 }
