@@ -1,6 +1,7 @@
 html,
 body {
   background: #f4f4f4;
+  margin: 0;
 }
 .header {
   background: black;
@@ -24,4 +25,16 @@ body {
 .title-text {
   margin-left: 3rem;
   font-size: 32px;
+}
+
+.blue-box {
+  background: #edf5ff;
+  min-height: 3rem;
+  border-left: 3px solid #0043ce;
+  border-color: #0043ce;
+  border-style: solid;
+  border-width: 1px 1px 1px 0;
+  margin-top: 12px;
+  margin-left: 12px;
+  margin-right: 12px;
 }
