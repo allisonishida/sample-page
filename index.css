@@ -2,4 +2,24 @@
 .header {
   background: black;
   color: #ffffff;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+}
+
+.header-text {
+  margin-left: 1rem;
+}
+
+.title {
+  background: white;
+  height: 9rem;
+}
+
+.title-text {
+  margin-left: 3rem;
+}
+
+.body {
+  background: #f4f4f4;
 }
