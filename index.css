@@ -38,3 +38,13 @@ body {
   margin-left: 12px;
   margin-right: 12px;
 }
+
+.list {
+  display: inline-block;
+  background: white;
+}
+
+.status {
+  display: inline-block;
+  background: white;
+}
