@@ -12,8 +12,11 @@ body {
   align-items: center;
 }
 
+.header-text {
+    margin-left: 1rem;
+}
+
 .header-company-name {
-  margin-left: 1rem;
   font-size: 14px;
   display: inline-block;
 }
