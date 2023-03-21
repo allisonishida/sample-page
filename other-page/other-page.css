@@ -12,11 +12,17 @@ body {
   align-items: center;
 }
 
-.header-text {
+.header-company-name {
   margin-left: 1rem;
   font-size: 14px;
   display: inline-block;
 }
+
+.header-product-name {
+    font-size: 14px;
+    font-weight: 600px;
+    display: inline-block;
+  }
 
 .title {
   background: white;
@@ -26,14 +32,14 @@ body {
 }
 
 .title-text {
-  margin-left: 3rem;
+  margin-left: 2rem;
   font-size: 32px;
 }
 
 .status {
     background: white;
     margin: 1rem;
-    padding: 12px;
+    padding: 1rem;
 }
 
 .status-text {
@@ -44,7 +50,7 @@ body {
 .upcoming-maintenance {
     background: white;
     margin: 1rem;
-    padding: 12px;
+    padding: 1rem;
 }
 
 .upcoming-maintenance-text {
