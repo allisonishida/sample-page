@@ -30,10 +30,21 @@ body {
 
 .status {
     background: white;
-    margin: 12px 12px 12px 12px;
+    margin: 1rem;
+    padding: 12px 12px 12px 12px;
+}
+
+.status-text {
+    padding-top: 12px;
+    font-size: 24px;
 }
 
 .upcoming-maintenance {
     background: white;
-    margin: 12px 12px 12px 12px;
+    margin: 1rem;
+}
+
+.upcoming-maintenance-text {
+    padding-top: 12px;
+    font-size: 24px;
 }
